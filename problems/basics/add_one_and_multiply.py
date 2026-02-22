@@ -3,7 +3,7 @@ def add_one_and_multiply(a, x):
 
     ### YOUR CODE GOES HERE
     # Replace "None" with the correct expression
-    r = None
+    r = x * (1+a)
 
     ### DO NOT MODIFY THE FOLLOWING LINE!
     return r
